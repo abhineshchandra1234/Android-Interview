@@ -14,3 +14,6 @@
 
 ## Unit Testing
 - [Learn Unit Testing in Android by building a sample application](https://medium.com/mindorks/learn-unit-testing-in-android-by-building-a-sample-application-23ec2f6340e8)
+
+## UI Testing
+- [UI Testing with Espresso in Android](https://medium.com/mindful-engineering/ui-testing-with-espresso-in-android-10dfbc9f25da)
