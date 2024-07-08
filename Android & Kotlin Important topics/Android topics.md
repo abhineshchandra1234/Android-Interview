@@ -15,6 +15,9 @@
 ## Navigation
 - [Navigation Component- The Complete Guide](https://medium.com/@muhamed.riyas/navigation-component-the-complete-guide-c51c9911684)
 
+## Networking
+- [Retrofit in Android](https://medium.com/@KaushalVasava/retrofit-in-android-5a28c8e988ce)
+
 ## Unit Testing
 - [Learn Unit Testing in Android by building a sample application](https://medium.com/mindorks/learn-unit-testing-in-android-by-building-a-sample-application-23ec2f6340e8)
 
