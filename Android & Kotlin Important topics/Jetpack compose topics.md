@@ -9,6 +9,7 @@
 - [Type-Safe Navigation](https://youtu.be/AIC_OFQ1r3k?si=jdnkAoIa4vp04-Rk)
 - [Type safety in Kotlin DSL and Navigation Compose](https://developer.android.com/guide/navigation/design/type-safety)
 - [Navigation Compose meet Type Safety](https://medium.com/androiddevelopers/navigation-compose-meet-type-safety-e081fb3cf2f8)
+- [Jetpack Compose Screen Navigation With Type Safety](https://proandroiddev.com/jetpack-compose-screen-navigation-with-type-safety-337ec177026e)
 
 ## Search Screen
 - [Building a search screen with Jetpack Compose](https://proandroiddev.com/jetpack-compose-search-screen-recommendations-7b5c8c119c0e)
