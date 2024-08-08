@@ -28,3 +28,4 @@
 - [Pending intents](https://developer.android.com/privacy-and-security/risks/pending-intent)
 - [What is an Android PendingIntent?](https://stackoverflow.com/questions/2808796/what-is-an-android-pendingintent)
 - [All About PendingIntents](https://medium.com/androiddevelopers/all-about-pendingintents-748c8eb8619)
+- [PendingIntent](https://developer.android.com/reference/android/app/PendingIntent)
