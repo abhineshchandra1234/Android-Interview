@@ -11,6 +11,11 @@
 - [Dagger 2 for Android Beginners — Dagger 2 part I](https://medium.com/@harivigneshjayapalan/dagger-2-for-android-beginners-dagger-2-part-i-f2de5564ab25)
 - [Dagger 2 for Android Beginners — Dagger 2 part II](https://medium.com/@harivigneshjayapalan/dagger-2-for-android-beginners-dagger-2-part-ii-436c3e3aa15b)
 - [Dependency Injection with Dagger 2 in Android](https://www.geeksforgeeks.org/dependency-injection-with-dagger-2-in-android/)
+- [How to inject a ViewModel into a composable function using Hilt](https://stackoverflow.com/questions/67180046/how-to-inject-a-viewmodel-into-a-composable-function-using-hilt-jetpack-compose)
+- [Dependency Injection in Compose](https://medium.com/androiddevelopers/dependency-injection-in-compose-a2db897e6f11)
+- [Compose and other libraries](https://developer.android.com/develop/ui/compose/libraries)
+- [Use Hilt with other Jetpack libraries](https://developer.android.com/training/dependency-injection/hilt-jetpack)
+- [How to Use ViewModel with Jetpack Compose](https://medium.com/appcent/how-to-use-viewmodel-with-jetpack-compose-dc543f10bf6f)
 
 ## Navigation
 - [Navigation Component- The Complete Guide](https://medium.com/@muhamed.riyas/navigation-component-the-complete-guide-c51c9911684)
