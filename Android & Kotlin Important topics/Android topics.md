@@ -23,3 +23,6 @@
 
 ## UI Testing
 - [UI Testing with Espresso in Android](https://medium.com/mindful-engineering/ui-testing-with-espresso-in-android-10dfbc9f25da)
+
+## Pending intents
+- [Pending intents](https://developer.android.com/privacy-and-security/risks/pending-intent)
