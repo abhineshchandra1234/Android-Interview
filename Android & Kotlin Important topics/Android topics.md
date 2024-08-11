@@ -43,3 +43,14 @@
 - [Create a notification](https://developer.android.com/develop/ui/views/notifications/build-notification)
 - [Push Notification in Android. How does it Work?](https://medium.com/@KaushalVasava/push-notification-in-android-how-its-work-2679d0bc0720)
 - [Local notification in Android with Jetpack compose](https://meetpatadia9.medium.com/local-notification-in-android-with-jetpack-compose-437b430710f3)
+
+## Services
+- [Services overview](https://developer.android.com/develop/background-work/services)
+- [Services in Android with Example](https://www.geeksforgeeks.org/services-in-android-with-example/)
+- [Android Services](https://medium.com/@huseyinozkoc/android-services-tutorial-with-example-fa329e6a5b4b)
+- [Service](https://developer.android.com/reference/android/app/Service)
+    ### Foreground Services
+    - [Foreground services](https://developer.android.com/develop/background-work/services/foreground-services)
+    ### Bound Services
+    - [Bound services overview](https://developer.android.com/develop/background-work/services/bound-services)
+    - [Why to use Android Bound Service?](https://stackoverflow.com/questions/43947499/why-to-use-android-bound-service)
