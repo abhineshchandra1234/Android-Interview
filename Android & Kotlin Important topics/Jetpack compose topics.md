@@ -14,3 +14,8 @@
 
 ## Search Screen
 - [Building a search screen with Jetpack Compose](https://proandroiddev.com/jetpack-compose-search-screen-recommendations-7b5c8c119c0e)
+
+## Animations
+- [Customizing AnimatedContent in Jetpack Compose](https://medium.com/androiddevelopers/customizing-animatedcontent-in-jetpack-compose-629c67b45894)
+- [Animation modifiers and composables](https://developer.android.com/develop/ui/compose/animation/composables-modifiers)
+- [Animations in Compose](https://developer.android.com/develop/ui/compose/animation/introduction)
