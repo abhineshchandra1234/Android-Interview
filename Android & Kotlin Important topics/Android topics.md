@@ -43,6 +43,8 @@
 - [How to Push Notification in Android?](https://www.geeksforgeeks.org/how-to-push-notification-in-android/)
 - [Create a notification](https://developer.android.com/develop/ui/views/notifications/build-notification)
 - [Push Notification in Android. How does it Work?](https://medium.com/@KaushalVasava/push-notification-in-android-how-its-work-2679d0bc0720)
+- [Notification Manager in Android](https://www.geeksforgeeks.org/notification-manager-in-android/)
+- [NotificationManager](https://developer.android.com/reference/android/app/NotificationManager)
 - [Local notification in Android with Jetpack compose](https://meetpatadia9.medium.com/local-notification-in-android-with-jetpack-compose-437b430710f3)
 
 ## Services
