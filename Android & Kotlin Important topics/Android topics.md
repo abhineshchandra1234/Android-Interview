@@ -55,3 +55,5 @@
     ### Bound Services
     - [Bound services overview](https://developer.android.com/develop/background-work/services/bound-services)
     - [Why to use Android Bound Service?](https://stackoverflow.com/questions/43947499/why-to-use-android-bound-service)
+    ### Binder
+    - [Android: What is Binder Thread?](https://stackoverflow.com/questions/15222041/android-what-is-binder-thread)
