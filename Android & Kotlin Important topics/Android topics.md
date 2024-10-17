@@ -27,6 +27,10 @@
 
 ## Unit Testing
 - [Learn Unit Testing in Android by building a sample application](https://medium.com/mindorks/learn-unit-testing-in-android-by-building-a-sample-application-23ec2f6340e8)
+    ### View Model 
+    - [Unit Testing for ViewModel](https://medium.com/mindorks/unit-testing-for-viewmodel-19f4d76b20d4)
+    - [How to Make Unit Tests for ViewModel Easier to Write and Maintain](https://betterprogramming.pub/how-to-make-unit-tests-for-viewmodel-easier-to-write-and-maintain-a7efd74cc4db)
+    - [How test a ViewModel function that launch a viewModelScope coroutine? Android Kotlin](https://stackoverflow.com/questions/71807957/how-test-a-viewmodel-function-that-launch-a-viewmodelscope-coroutine-android-ko)
 
 ## UI Testing
 - [UI Testing with Espresso in Android](https://medium.com/mindful-engineering/ui-testing-with-espresso-in-android-10dfbc9f25da)
